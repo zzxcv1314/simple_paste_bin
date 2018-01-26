@@ -2,6 +2,6 @@
 Django REST framework tutorial
 -------------------------------
 
-This tutorial is fairly in-depth,  ( ・・)つ-○○○
+This tutorial is fairly in-depth,  ( ・・)つ-○○○ <br/>
 so you should probably get a cookie and a cup of your favorite brew before getting started. 
 
